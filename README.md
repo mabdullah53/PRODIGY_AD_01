@@ -10,6 +10,10 @@ This is a simple calculator application built using Flutter.
 - Responsive UI
 - Clear button to reset the input
 
+## Screenshots
+![calculator_screenshort](https://github.com/mabdullah53/PRODIGY_AD_01/assets/165842713/fdd8d75f-84dd-4cc4-8905-cb0a213e6533)
+
+
 
 ## Installation
 
